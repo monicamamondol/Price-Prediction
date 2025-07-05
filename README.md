@@ -1,4 +1,4 @@
-| Jenis    | Keterangan                                                |
+| Type    | Description                                                |
 |----------|-----------------------------------------------------------|
 | Title    | Indian Pharmaceutical Products                                      |
 | Source   |[Kaggle]([https://www.kaggle.com/datasets/rishgeeky/indian-pharmaceutical-products])                                                  |
